@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-storage/#history
 
+### [1.35.1](https://www.github.com/googleapis/python-storage/compare/v1.35.0...v1.35.1) (2021-01-21)
+
+
+### Bug Fixes
+
+* Amend default retry behavior for bucket operations on client ([#358](https://www.github.com/googleapis/python-storage/issues/358)) ([b91e57d](https://www.github.com/googleapis/python-storage/commit/b91e57d6ca314ac4feaec30bf355fcf7ac4468c0))
+
 ## [1.35.0](https://www.github.com/googleapis/python-storage/compare/v1.34.0...v1.35.0) (2020-12-14)
 
 
